@@ -28,4 +28,4 @@ Simple command line task manager
 ## Goals
     Understand Rust Async programming
     Stop fighting the borrow checker
-    Learn Front end framework in rust
+    Learn Front end framework in rust (DIOXUS)
